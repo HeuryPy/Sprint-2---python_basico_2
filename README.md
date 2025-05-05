@@ -10,7 +10,7 @@ E finalmente, na Etapa 3, foi testada a hipótese dando os passos de programaç�
 🧪Hipótese:<br>
 A atividade dos usuários é diferente dependendo do dia da semana e da cidade.
 
-**Sugestões para o futuro:**
+**Sugestões para o futuro:**<br>
 Utilizar o métono nunique() para contar a quantidade de valores distintos.
 Trazer as informações de forma mais visual para futuras análises.
 
